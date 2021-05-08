@@ -32,6 +32,6 @@ Learned how to create a card and understood why BEM is important and understood 
 ## Credits
 
 - [Mosh](https://programmingwithmosh.com/)
-- [Image credit]([https://link](https://randomuser.me/photos))
+- [Image credit](https://randomuser.me/photos)
 
 
