@@ -15,7 +15,7 @@ Learned how to create a card and understood why BEM is important and understood 
 
 ### Struggles
 
-- Getting the lower half of the card to be a different color
+- Getting the lower half of the card to be a different color and occupy the full width
 - The image scaling to 1.15 when we hover over the card
   
 
