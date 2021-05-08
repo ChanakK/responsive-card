@@ -17,12 +17,17 @@ Learned how to create a card and understood why BEM is important and understood 
 
 - Getting the lower half of the card to be a different color
 - The image scaling to 1.15 when we hover over the card
+  
 
 ### Solutions
 
 - To get the lower half colored with a separate color, had to use padding inside the card elements
 
 - Had to target the image like this `.card:hover img` 
+
+### Findings
+
+- On mobile devices `hover` does not work due to that created media-query and assigned it only to desktop sites.
   
 ## Credits
 
